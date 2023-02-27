@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description/>
+        <display_name>Get current env email id</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <step_config display_value="Get current env email id">844d76fa1b6919504a5d5530604bcb00</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>AD06715</sys_created_by>
+        <sys_created_on>2023-02-27 08:45:25</sys_created_on>
+        <sys_id>892b8f051bd5251087f9ea04604bcba1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get current env email id</sys_name>
+        <sys_package display_value="ATF_GIT " source="40b744d48751e11099d253d73cbb3556">40b744d48751e11099d253d73cbb3556</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ATF_GIT ">40b744d48751e11099d253d73cbb3556</sys_scope>
+        <sys_update_name>sys_atf_step_892b8f051bd5251087f9ea04604bcba1</sys_update_name>
+        <sys_updated_by>AD06715</sys_updated_by>
+        <sys_updated_on>2023-02-27 08:45:25</sys_updated_on>
+        <table/>
+        <test display_value="ATF_GIT Test">736f264187952150842a53d73cbb35f3</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=892b8f051bd5251087f9ea04604bcba1"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ATF_GIT ">40b744d48751e11099d253d73cbb3556</application>
+        <file_path/>
+        <instance_id>7a41713edbb5781049eac597059619c1</instance_id>
+        <instance_name>lumentest2</instance_name>
+        <name>sys_atf_step_892b8f051bd5251087f9ea04604bcba1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description/>
+        <display_name>Get current env email id</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <step_config display_value="Get current env email id">844d76fa1b6919504a5d5530604bcb00</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>AD06715</sys_created_by>
+        <sys_created_on>2023-02-27 08:45:25</sys_created_on>
+        <sys_id>892b8f051bd5251087f9ea04604bcba1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get current env email id</sys_name>
+        <sys_package display_value="ATF_GIT " source="40b744d48751e11099d253d73cbb3556">40b744d48751e11099d253d73cbb3556</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ATF_GIT ">40b744d48751e11099d253d73cbb3556</sys_scope>
+        <sys_update_name>sys_atf_step_892b8f051bd5251087f9ea04604bcba1</sys_update_name>
+        <sys_updated_by>AD06715</sys_updated_by>
+        <sys_updated_on>2023-02-27 08:45:25</sys_updated_on>
+        <table/>
+        <test display_value="ATF_GIT Test">736f264187952150842a53d73cbb35f3</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=892b8f051bd5251087f9ea04604bcba1"/>
+</record_update>]]></payload>
+        <payload_hash>-941196869</payload_hash>
+        <record_name>Get current env email id</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>AD06715</sys_created_by>
+        <sys_created_on>2023-02-27 11:26:35</sys_created_on>
+        <sys_id>1300ff0d87d16150842a53d73cbb352f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186929fdb3f0000001</sys_recorded_at>
+        <sys_updated_by>AD06715</sys_updated_by>
+        <sys_updated_on>2023-02-27 11:26:35</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>df00ff0ddfd16150a3b9e3af7a5b812e</update_guid>
+        <update_guid_history>df00ff0ddfd16150a3b9e3af7a5b812e:-941196869</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>AD06715</sys_created_by>
+        <sys_created_on>2023-02-27 11:28:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>12822d0c48834194ad5ca03ff0c12664</sys_id>
+        <sys_metadata>892b8f051bd5251087f9ea04604bcba1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get current env email id</sys_name>
+        <sys_package display_value="ATF_GIT " source="40b744d48751e11099d253d73cbb3556">40b744d48751e11099d253d73cbb3556</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ATF_GIT ">40b744d48751e11099d253d73cbb3556</sys_scope>
+        <sys_scope_delete display_value="">585154451bb44a10bec005bce4670900</sys_scope_delete>
+        <sys_update_name>sys_atf_step_892b8f051bd5251087f9ea04604bcba1</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_892b8f051bd5251087f9ea04604bcba1">1300ff0d87d16150842a53d73cbb352f</sys_update_version>
+        <sys_updated_by>AD06715</sys_updated_by>
+        <sys_updated_on>2023-02-27 11:28:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

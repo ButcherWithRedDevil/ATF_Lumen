@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="DELETE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>AD06715</sys_created_by>
+        <sys_created_on>2023-02-27 06:46:17</sys_created_on>
+        <sys_id>bddfa2c587952150842a53d73cbb354a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>736f264187952150842a53d73cbb35f3</sys_name>
+        <sys_package display_value="ATF_GIT " source="40b744d48751e11099d253d73cbb3556">40b744d48751e11099d253d73cbb3556</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ATF_GIT ">40b744d48751e11099d253d73cbb3556</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_bddfa2c587952150842a53d73cbb354a</sys_update_name>
+        <sys_updated_by>AD06715</sys_updated_by>
+        <sys_updated_on>2023-02-27 06:46:17</sys_updated_on>
+        <test display_value="ATF_GIT Test">736f264187952150842a53d73cbb35f3</test>
+        <test_suite display_value="ATF GIT">7e7d660187952150842a53d73cbb3553</test_suite>
+    </sys_atf_test_suite_test>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ATF_GIT ">40b744d48751e11099d253d73cbb3556</application>
+        <file_path/>
+        <instance_id>7a41713edbb5781049eac597059619c1</instance_id>
+        <instance_name>lumentest2</instance_name>
+        <name>sys_atf_test_suite_test_bddfa2c587952150842a53d73cbb354a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>AD06715</sys_created_by>
+        <sys_created_on>2023-02-27 06:46:17</sys_created_on>
+        <sys_id>bddfa2c587952150842a53d73cbb354a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>736f264187952150842a53d73cbb35f3</sys_name>
+        <sys_package display_value="ATF_GIT " source="40b744d48751e11099d253d73cbb3556">40b744d48751e11099d253d73cbb3556</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ATF_GIT ">40b744d48751e11099d253d73cbb3556</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_bddfa2c587952150842a53d73cbb354a</sys_update_name>
+        <sys_updated_by>AD06715</sys_updated_by>
+        <sys_updated_on>2023-02-27 06:46:17</sys_updated_on>
+        <test display_value="ATF_GIT Test">736f264187952150842a53d73cbb35f3</test>
+        <test_suite display_value="ATF GIT">7e7d660187952150842a53d73cbb3553</test_suite>
+    </sys_atf_test_suite_test>
+</record_update>]]></payload>
+        <payload_hash>1170024479</payload_hash>
+        <record_name>736f264187952150842a53d73cbb35f3</record_name>
+        <reverted_from/>
+        <source>fe007f0d87d16150842a53d73cbb35b4</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>AD06715</sys_created_by>
+        <sys_created_on>2023-02-27 11:26:35</sys_created_on>
+        <sys_id>d300ff0d87d16150842a53d73cbb353a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186929fdbce0000001</sys_recorded_at>
+        <sys_updated_by>AD06715</sys_updated_by>
+        <sys_updated_on>2023-02-27 11:26:35</sys_updated_on>
+        <type>Test Suite Test</type>
+        <update_guid>1300ff0dabd161506ccb463bcb6d8b3a</update_guid>
+        <update_guid_history>1300ff0dabd161506ccb463bcb6d8b3a:0,3a2ee785f8d16150b2508ef518eaf228:-737657617,49f67a8d77d5215082c2cef4a415b5d7:0,ee513e09b1952150dd96d8ababbf7732:1071467668,ddefa6854295215007cdec2bb1324a4b:-1789328402</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>AD06715</sys_created_by>
+        <sys_created_on>2023-02-27 11:28:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test_suite_test">sys_atf_test_suite_test</sys_db_object>
+        <sys_id>1472144724a24bb4b15912cabd261e10</sys_id>
+        <sys_metadata>bddfa2c587952150842a53d73cbb354a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>736f264187952150842a53d73cbb35f3</sys_name>
+        <sys_package display_value="ATF_GIT " source="40b744d48751e11099d253d73cbb3556">40b744d48751e11099d253d73cbb3556</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ATF_GIT ">40b744d48751e11099d253d73cbb3556</sys_scope>
+        <sys_scope_delete display_value="">585154451bb44a10bec005bce4670900</sys_scope_delete>
+        <sys_update_name>sys_atf_test_suite_test_bddfa2c587952150842a53d73cbb354a</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_suite_test_bddfa2c587952150842a53d73cbb354a">d300ff0d87d16150842a53d73cbb353a</sys_update_version>
+        <sys_updated_by>AD06715</sys_updated_by>
+        <sys_updated_on>2023-02-27 11:28:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
