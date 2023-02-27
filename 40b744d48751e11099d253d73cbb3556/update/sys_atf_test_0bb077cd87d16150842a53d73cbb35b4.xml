@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Fake test to check commit</description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <fail_on_server_error>true</fail_on_server_error>
+        <name>Git Fake</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>AD06715</sys_created_by>
+        <sys_created_on>2023-02-27 11:29:49</sys_created_on>
+        <sys_id>0bb077cd87d16150842a53d73cbb35b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Git Fake</sys_name>
+        <sys_package display_value="ATF_GIT " source="40b744d48751e11099d253d73cbb3556">40b744d48751e11099d253d73cbb3556</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ATF_GIT ">40b744d48751e11099d253d73cbb3556</sys_scope>
+        <sys_update_name>sys_atf_test_0bb077cd87d16150842a53d73cbb35b4</sys_update_name>
+        <sys_updated_by>AD06715</sys_updated_by>
+        <sys_updated_on>2023-02-27 11:29:49</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=0bb077cd87d16150842a53d73cbb35b4"/>
+</record_update>
