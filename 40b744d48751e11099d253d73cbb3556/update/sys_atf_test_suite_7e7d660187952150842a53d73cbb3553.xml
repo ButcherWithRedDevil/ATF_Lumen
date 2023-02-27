@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite">
+    <sys_atf_test_suite action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <input_filter/>
+        <name>ATF GIT</name>
+        <parent/>
+        <sys_class_name>sys_atf_test_suite</sys_class_name>
+        <sys_created_by>AD06715</sys_created_by>
+        <sys_created_on>2023-02-27 06:35:56</sys_created_on>
+        <sys_id>7e7d660187952150842a53d73cbb3553</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>ATF GIT</sys_name>
+        <sys_package display_value="ATF_GIT " source="40b744d48751e11099d253d73cbb3556">40b744d48751e11099d253d73cbb3556</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ATF_GIT ">40b744d48751e11099d253d73cbb3556</sys_scope>
+        <sys_update_name>sys_atf_test_suite_7e7d660187952150842a53d73cbb3553</sys_update_name>
+        <sys_updated_by>AD06715</sys_updated_by>
+        <sys_updated_on>2023-02-27 06:46:34</sys_updated_on>
+    </sys_atf_test_suite>
+</record_update>
