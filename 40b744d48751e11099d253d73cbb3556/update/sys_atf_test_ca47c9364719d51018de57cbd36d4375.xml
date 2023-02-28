@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Validating the following fields Owned By Configuration Item, Account, Company, Location, Primary ID, Primary Source on cmdb_ci_ip_address table..</description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <fail_on_server_error>false</fail_on_server_error>
+        <name>CMS_CMDB IP Address table validation_D2SSN-5671</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>AD12998</sys_created_by>
+        <sys_created_on>2022-08-17 13:27:34</sys_created_on>
+        <sys_id>ca47c9364719d51018de57cbd36d4375</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>CMS_CMDB IP Address table validation_D2SSN-5671</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ATF_GIT ">40b744d48751e11099d253d73cbb3556</sys_scope>
+        <sys_update_name>sys_atf_test_ca47c9364719d51018de57cbd36d4375</sys_update_name>
+        <sys_updated_by>AD13658</sys_updated_by>
+        <sys_updated_on>2023-02-28 08:56:49</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=ca47c9364719d51018de57cbd36d4375"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ATF_GIT ">40b744d48751e11099d253d73cbb3556</claim_owner_scope>
+        <claim_timestamp>186973d19e70000001</claim_timestamp>
+        <metadata_update_name>sys_atf_test_ca47c9364719d51018de57cbd36d4375</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>ATF_GIT </previous_claim_name>
+        <previous_claim_scope>40b744d48751e11099d253d73cbb3556</previous_claim_scope>
+        <sys_created_by>AD13658</sys_created_by>
+        <sys_created_on>2023-02-28 08:56:49</sys_created_on>
+        <sys_id>435794291b91a9900f4ccbb8624bcbad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AD13658</sys_updated_by>
+        <sys_updated_on>2023-02-28 08:56:49</sys_updated_on>
+    </sys_claim>
+</record_update>
