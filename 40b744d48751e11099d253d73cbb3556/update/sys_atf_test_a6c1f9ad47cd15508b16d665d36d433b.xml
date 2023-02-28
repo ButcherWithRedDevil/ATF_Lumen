@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Remove URLS/LINKS that would take customers to the CSM Portal from ALL CASE Notifications&#13;
+Test generated from template. This test covers validating the Notifications forms for a Case&#13;
+&#13;
+</description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <fail_on_server_error>false</fail_on_server_error>
+        <name>ITSM_Case Notification_D2SSN-5237.</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>AD12998</sys_created_by>
+        <sys_created_on>2022-08-01 09:05:15</sys_created_on>
+        <sys_id>a6c1f9ad47cd15508b16d665d36d433b</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>ITSM_Case Notification_D2SSN-5237.</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ATF_GIT ">40b744d48751e11099d253d73cbb3556</sys_scope>
+        <sys_update_name>sys_atf_test_a6c1f9ad47cd15508b16d665d36d433b</sys_update_name>
+        <sys_updated_by>AD12998</sys_updated_by>
+        <sys_updated_on>2023-02-28 09:20:01</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=a6c1f9ad47cd15508b16d665d36d433b"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ATF_GIT ">40b744d48751e11099d253d73cbb3556</claim_owner_scope>
+        <claim_timestamp>1869752560e0000001</claim_timestamp>
+        <metadata_update_name>sys_atf_test_a6c1f9ad47cd15508b16d665d36d433b</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>ATF_GIT </previous_claim_name>
+        <previous_claim_scope>40b744d48751e11099d253d73cbb3556</previous_claim_scope>
+        <sys_created_by>AD12998</sys_created_by>
+        <sys_created_on>2023-02-28 09:20:01</sys_created_on>
+        <sys_id>3aac902d1bd1a9900f4ccbb8624bcbe3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AD12998</sys_updated_by>
+        <sys_updated_on>2023-02-28 09:20:01</sys_updated_on>
+    </sys_claim>
+</record_update>

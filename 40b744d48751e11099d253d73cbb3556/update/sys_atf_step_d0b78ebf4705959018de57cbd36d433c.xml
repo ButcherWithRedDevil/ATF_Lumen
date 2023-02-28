@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Assert the following:
+The following fields are visible: Specification
+With a failure timeout of 5 Seconds</description>
+        <display_name>Field State Validation</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes>..</notes>
+        <order>2</order>
+        <step_config display_value="Field State Validation">1dfece935332120028bc29cac2dc3478</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>AD12998</sys_created_by>
+        <sys_created_on>2022-08-08 10:27:18</sys_created_on>
+        <sys_id>d0b78ebf4705959018de57cbd36d433c</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Field State Validation</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ATF_GIT ">40b744d48751e11099d253d73cbb3556</sys_scope>
+        <sys_update_name>sys_atf_step_d0b78ebf4705959018de57cbd36d433c</sys_update_name>
+        <sys_updated_by>AD13658</sys_updated_by>
+        <sys_updated_on>2023-02-28 09:15:52</sys_updated_on>
+        <table>cmdb_hardware_product_model</table>
+        <test display_value="CMS_CMDB form layout_D2SSN-7036">e887ce3f4705959018de57cbd36d4309</test>
+        <timeout>1970-01-01 00:00:05</timeout>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=d0b78ebf4705959018de57cbd36d433c"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>d0b78ebf4705959018de57cbd36d433c</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>AD12998</sys_created_by>
+        <sys_created_on>2022-08-08 10:27:18</sys_created_on>
+        <sys_id>23b7ce7f4705959018de57cbd36d43fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AD12998</sys_updated_by>
+        <sys_updated_on>2022-08-08 10:27:18</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="Form UI">b1fefcde73633300b19898b8caf6a7af</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>d0b78ebf4705959018de57cbd36d433c</document_key>
+        <order>310</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>AD12998</sys_created_by>
+        <sys_created_on>2022-08-08 10:27:18</sys_created_on>
+        <sys_id>23b7ce7f4705959018de57cbd36d43ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AD12998</sys_updated_by>
+        <sys_updated_on>2022-08-08 10:27:18</sys_updated_on>
+        <value/>
+        <variable display_value="Not read only">e63a97535320220002c6435723dc34b8</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>d0b78ebf4705959018de57cbd36d433c</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>AD12998</sys_created_by>
+        <sys_created_on>2022-08-08 10:27:18</sys_created_on>
+        <sys_id>27b7ce7f4705959018de57cbd36d43fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AD12998</sys_updated_by>
+        <sys_updated_on>2022-08-08 10:27:18</sys_updated_on>
+        <value>specification</value>
+        <variable display_value="Visible">0cd9df135320220002c6435723dc3426</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>d0b78ebf4705959018de57cbd36d433c</document_key>
+        <order>410</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>AD12998</sys_created_by>
+        <sys_created_on>2022-08-08 10:27:18</sys_created_on>
+        <sys_id>6fb7ce7f4705959018de57cbd36d43fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AD12998</sys_updated_by>
+        <sys_updated_on>2022-08-08 10:27:18</sys_updated_on>
+        <value/>
+        <variable display_value="Not mandatory">787a9b535320220002c6435723dc3455</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>d0b78ebf4705959018de57cbd36d433c</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>AD12998</sys_created_by>
+        <sys_created_on>2022-08-08 10:27:18</sys_created_on>
+        <sys_id>a7b7ce7f4705959018de57cbd36d43ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AD12998</sys_updated_by>
+        <sys_updated_on>2022-08-08 10:27:18</sys_updated_on>
+        <value>cmdb_hardware_product_model</value>
+        <variable display_value="Table">80f953535320220002c6435723dc340f</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>d0b78ebf4705959018de57cbd36d433c</document_key>
+        <order>210</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>AD12998</sys_created_by>
+        <sys_created_on>2022-08-08 10:27:18</sys_created_on>
+        <sys_id>abb7ce7f4705959018de57cbd36d43fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AD12998</sys_updated_by>
+        <sys_updated_on>2022-08-08 10:27:18</sys_updated_on>
+        <value/>
+        <variable display_value="Not visible">e81ad3535320220002c6435723dc340c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>d0b78ebf4705959018de57cbd36d433c</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>AD12998</sys_created_by>
+        <sys_created_on>2022-08-08 10:27:18</sys_created_on>
+        <sys_id>e3b7ce7f4705959018de57cbd36d43ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AD12998</sys_updated_by>
+        <sys_updated_on>2022-08-08 10:27:18</sys_updated_on>
+        <value/>
+        <variable display_value="Mandatory">6e5a1b535320220002c6435723dc3498</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>d0b78ebf4705959018de57cbd36d433c</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>AD12998</sys_created_by>
+        <sys_created_on>2022-08-08 10:27:18</sys_created_on>
+        <sys_id>e7b7ce7f4705959018de57cbd36d43fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AD12998</sys_updated_by>
+        <sys_updated_on>2022-08-08 10:27:18</sys_updated_on>
+        <value/>
+        <variable display_value="Read only">592a17535320220002c6435723dc34d7</variable>
+    </sys_variable_value>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ATF_GIT ">40b744d48751e11099d253d73cbb3556</claim_owner_scope>
+        <claim_timestamp>186974e8b3b0000001</claim_timestamp>
+        <metadata_update_name>sys_atf_step_d0b78ebf4705959018de57cbd36d433c</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>ATF_GIT </previous_claim_name>
+        <previous_claim_scope>40b744d48751e11099d253d73cbb3556</previous_claim_scope>
+        <sys_created_by>AD13658</sys_created_by>
+        <sys_created_on>2023-02-28 09:15:52</sys_created_on>
+        <sys_id>dabb58291bd1a9900f4ccbb8624bcbc2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AD13658</sys_updated_by>
+        <sys_updated_on>2023-02-28 09:15:52</sys_updated_on>
+    </sys_claim>
+</record_update>

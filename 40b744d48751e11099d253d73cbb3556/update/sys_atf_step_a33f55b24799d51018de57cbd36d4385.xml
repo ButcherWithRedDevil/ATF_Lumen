@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Validate there is at least one record in 'sn_prd_invt_product_inventory' matching query:
+Name is anything
+With a failure timeout of 5 Seconds</description>
+        <display_name>Record Query</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes>//</notes>
+        <order>1</order>
+        <step_config display_value="Record Query">2d82e3c7531400109e02ddeeff7b12a7</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>AD12998</sys_created_by>
+        <sys_created_on>2022-08-17 15:12:33</sys_created_on>
+        <sys_id>a33f55b24799d51018de57cbd36d4385</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Record Query</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ATF_GIT ">40b744d48751e11099d253d73cbb3556</sys_scope>
+        <sys_update_name>sys_atf_step_a33f55b24799d51018de57cbd36d4385</sys_update_name>
+        <sys_updated_by>AD13658</sys_updated_by>
+        <sys_updated_on>2023-02-28 09:18:16</sys_updated_on>
+        <table>sn_prd_invt_product_inventory</table>
+        <test display_value="CMS_CMDB Product Inventory_D2SSN-7014">1ec421ea478d119018de57cbd36d4314</test>
+        <timeout>1970-01-01 00:00:05</timeout>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=a33f55b24799d51018de57cbd36d4385"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>a33f55b24799d51018de57cbd36d4385</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>AD12998</sys_created_by>
+        <sys_created_on>2022-08-17 15:12:33</sys_created_on>
+        <sys_id>0e5f59f24799d51018de57cbd36d4317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AD12998</sys_updated_by>
+        <sys_updated_on>2022-08-17 15:12:33</sys_updated_on>
+        <value>0</value>
+        <variable display_value="Enforce security">02fb0027531000109e02ddeeff7b120b</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>a33f55b24799d51018de57cbd36d4385</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>AD12998</sys_created_by>
+        <sys_created_on>2022-08-17 15:12:33</sys_created_on>
+        <sys_id>825f59f24799d51018de57cbd36d4318</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AD12998</sys_updated_by>
+        <sys_updated_on>2022-08-17 15:12:33</sys_updated_on>
+        <value>nameANYTHING^EQ</value>
+        <variable display_value="Conditions">915990ab531000109e02ddeeff7b12f8</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>a33f55b24799d51018de57cbd36d4385</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>AD12998</sys_created_by>
+        <sys_created_on>2022-08-17 15:12:33</sys_created_on>
+        <sys_id>c25f59f24799d51018de57cbd36d4317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AD12998</sys_updated_by>
+        <sys_updated_on>2022-08-17 15:12:33</sys_updated_on>
+        <value>records_match_query</value>
+        <variable display_value="Assert type">b86c0427531000109e02ddeeff7b1227</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>a33f55b24799d51018de57cbd36d4385</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>AD12998</sys_created_by>
+        <sys_created_on>2022-08-17 15:12:33</sys_created_on>
+        <sys_id>ce5f59f24799d51018de57cbd36d4317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AD12998</sys_updated_by>
+        <sys_updated_on>2022-08-17 15:12:33</sys_updated_on>
+        <value>sn_prd_invt_product_inventory</value>
+        <variable display_value="Table">78b8d86b531000109e02ddeeff7b12f3</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_2d82e3c7531400109e02ddeeff7b12a7^id=a33f55b24799d51018de57cbd36d4385"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ATF_GIT ">40b744d48751e11099d253d73cbb3556</claim_owner_scope>
+        <claim_timestamp>1869750bd400000001</claim_timestamp>
+        <metadata_update_name>sys_atf_step_a33f55b24799d51018de57cbd36d4385</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>ATF_GIT </previous_claim_name>
+        <previous_claim_scope>40b744d48751e11099d253d73cbb3556</previous_claim_scope>
+        <sys_created_by>AD13658</sys_created_by>
+        <sys_created_on>2023-02-28 09:18:16</sys_created_on>
+        <sys_id>514c18a91bd1a9900f4ccbb8624bcb58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AD13658</sys_updated_by>
+        <sys_updated_on>2023-02-28 09:18:16</sys_updated_on>
+    </sys_claim>
+</record_update>
